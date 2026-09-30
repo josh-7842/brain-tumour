@@ -1,0 +1,5 @@
+TumorType,Symptoms,Description
+glioma,Headache,Seizures,Weakness,Speech difficulty,Gliomas often cause headaches and neurological deficits depending on location.
+meningioma,Vision problems,Hearing loss,Memory issues,Meningiomas can compress nearby brain tissue leading to sensory or cognitive symptoms.
+notumor,None,No tumor detected,No abnormal symptoms associated.
+pituitary,Vision changes,Hormonal imbalance,Fatigue,Pituitary tumors can affect hormone levels and optic nerves.
